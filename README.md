@@ -29,6 +29,9 @@ Aqui estão algumas telas do aplicativo em funcionamento:
 **Tela Principal (Perfil e Cronômetro):**
 <br> 
 <img src="https://i.postimg.cc/5yW0zXXH/Gemini-Generated-Image-wcbh5wcbh5wcbh5w-1.png" alt="Tela Principal do App - Perfil" width="150">
+<img src="https://i.postimg.cc/TwJsGSvq/11.jpg" alt="Tela Principal do App - Perfil" width="150">
+<img src="https://i.postimg.cc/0Q04x31Y/12.jpg" alt="Tela Principal do App - Perfil" width="150">
+<img src="https://i.postimg.cc/mDynRqWy/13.jpg" alt="Tela Principal do App - Perfil" width="150">
 <img src="https://i.postimg.cc/J4yJZkYc/1111.png" alt="Tela Principal do App - Treino" width="200">
 <img src="https://i.postimg.cc/28PWwSg9/222222.png" alt="Tela Principal do App - Outra Visão" width="200">
 
